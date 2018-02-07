@@ -1,0 +1,2 @@
+﻿  Bullet.cpp
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory

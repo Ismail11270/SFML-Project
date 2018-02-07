@@ -1,0 +1,34 @@
+﻿  functions.cpp
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\functions.cpp(164): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\functions.cpp(170): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\functions.cpp(177): warning C4018: '<=': signed/unsigned mismatch
+  Player.cpp
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\player.cpp(34): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\player.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\player.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\player.cpp(67): error C2039: 'shootDelay_': is not a member of 'Enemy'
+  c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.h(5): note: see declaration of 'Enemy'
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\main.cpp(32): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\main.cpp(162): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\main.cpp(187): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\main.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(18): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(34): error C2039: 'shootDelay': is not a member of 'Enemy'
+  c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.h(5): note: see declaration of 'Enemy'
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(35): error C2039: 'shootDelay_': is not a member of 'Enemy'
+  c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.h(5): note: see declaration of 'Enemy'
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(36): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(43): error C2065: 'shootDelay': undeclared identifier
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(43): error C2065: 'shootDelay_': undeclared identifier
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(45): error C2039: 'shootDelay': is not a member of 'Enemy'
+  c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.h(5): note: see declaration of 'Enemy'
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(47): error C2065: 'shootDelay': undeclared identifier
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\ismail atajanov\desktop\visualstudio\c++\project17\project17\enemy.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
